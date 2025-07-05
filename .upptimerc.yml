@@ -5,6 +5,8 @@ repo: freitagde-upptime # The name of this repository
 sites:
   - name: Freitag.de
     url: https://www.freitag.de
+  - name: Abo Freitag
+    url: https://abo.freitag.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
