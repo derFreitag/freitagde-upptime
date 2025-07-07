@@ -9,6 +9,8 @@ sites:
     url: https://abo.freitag.de/
   - name: Verlag Freitag
     url: https://verlag.freitag.de/
+  - name: Storybook Freaitag
+    url: https://storybook.freitag-verlag.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
