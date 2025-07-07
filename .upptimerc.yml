@@ -11,6 +11,8 @@ sites:
     url: https://verlag.freitag.de/
   - name: Storybook Freaitag
     url: https://storybook.freitag-verlag.de/
+  - name: Mein Freaitag
+    url: https://mein.freitag.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
