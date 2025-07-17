@@ -13,8 +13,6 @@ sites:
     url: https://storybook.freitag-verlag.de/
   - name: Mein Freitag
     url: https://mein.freitag.de/
-  - name: Test Broken URL
-    url: http://mein.freitap.de/
    
 
 status-website:
