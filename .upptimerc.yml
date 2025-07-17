@@ -9,9 +9,9 @@ sites:
     url: https://abo.freitag.de/
   - name: Verlag Freitag
     url: https://verlag.freitag.de/
-  - name: Storybook Freaitag
+  - name: Storybook Freitag
     url: https://storybook.freitag-verlag.de/
-  - name: Mein Freaitag
+  - name: Mein Freitag
     url: https://mein.freitag.de/
   - name: Test Broken URL
     url: http://mein.freitap.de/
