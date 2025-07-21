@@ -13,6 +13,10 @@ sites:
     url: https://storybook.freitag-verlag.de/
   - name: Mein Freitag
     url: https://mein.freitag.de/
+  - name: Sentry
+    url: https://sentry.dfstats.fcio.net/
+  - name: Grafana
+    url: https://grafana.dfstats.fcio.net/
    
 
 status-website:
