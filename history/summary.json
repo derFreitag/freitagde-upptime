@@ -13,7 +13,7 @@
     "time": 1751,
     "timeDay": 2000,
     "timeWeek": 1790,
-    "timeMonth": 1761,
+    "timeMonth": 1769,
     "timeYear": 1751,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1046,
     "timeDay": 1172,
     "timeWeek": 1026,
-    "timeMonth": 1046,
+    "timeMonth": 1044,
     "timeYear": 1046,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://verlag.freitag.de/",
     "icon": "https://icons.duckduckgo.com/ip3/verlag.freitag.de.ico",
     "slug": "verlag-freitag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1338,
     "timeDay": 1436,
     "timeWeek": 1252,
-    "timeMonth": 1338,
+    "timeMonth": 1341,
     "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 2
+    }
   },
   {
     "name": "Storybook Freitag",
@@ -112,9 +114,9 @@
     "url": "https://grafana.dfstats.fcio.net/",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.dfstats.fcio.net.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +125,8 @@
     "timeWeek": 1032,
     "timeMonth": 1050,
     "timeYear": 1050,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   }
 ]
