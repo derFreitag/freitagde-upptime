@@ -1,7 +1,7 @@
 url: https://grafana.dfstats.fcio.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-05T16:50:35.055Z
+status: up
+code: 200
+responseTime: 715
+lastUpdated: 2025-08-05T17:36:54.625Z
 startTime: 2025-07-21T06:39:35.066Z
 generator: Upptime <https://github.com/upptime/upptime>
