@@ -1,7 +1,7 @@
 url: https://www.freitag.de
-status: up
-code: 200
-responseTime: 1417
-lastUpdated: 2025-08-05T23:16:10.498Z
+status: down
+code: 503
+responseTime: 715
+lastUpdated: 2025-08-06T19:22:33.861Z
 startTime: 2025-07-04T22:03:42.853Z
 generator: Upptime <https://github.com/upptime/upptime>
