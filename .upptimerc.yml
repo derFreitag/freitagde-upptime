@@ -17,7 +17,11 @@ sites:
     url: https://sentry.dfstats.fcio.net/
   - name: Grafana
     url: https://grafana.dfstats.fcio.net/
-   
+  - name: Upscore JS
+    url: https://stone.freitag.de/files/site_script/freitag.de.js
+    __dangerous__body_down_if_text_missing: 'upscore-paywall-offer'
+    icon: https://upscore.com/Upscore.Theme/images/favicon.png
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
