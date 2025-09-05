@@ -25,10 +25,10 @@
     "url": "https://abo.freitag.de/",
     "icon": "https://icons.duckduckgo.com/ip3/abo.freitag.de.ico",
     "slug": "abo-freitag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 994,
@@ -36,7 +36,9 @@
     "timeWeek": 975,
     "timeMonth": 933,
     "timeYear": 994,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-05": 1
+    }
   },
   {
     "name": "Verlag Freitag",
