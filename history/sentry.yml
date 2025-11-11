@@ -1,7 +1,7 @@
 url: https://sentry.dfstats.fcio.net/
-status: down
-code: 502
-responseTime: 717
-lastUpdated: 2025-11-11T21:13:44.601Z
+status: up
+code: 200
+responseTime: 1310
+lastUpdated: 2025-11-11T21:31:25.050Z
 startTime: 2025-07-21T06:39:33.516Z
 generator: Upptime <https://github.com/upptime/upptime>
