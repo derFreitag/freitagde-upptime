@@ -27,19 +27,19 @@
     "url": "https://abo.freitag.de/",
     "icon": "https://icons.duckduckgo.com/ip3/abo.freitag.de.ico",
     "slug": "abo-freitag",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 1300,
-    "timeWeek": 885,
-    "timeMonth": 972,
-    "timeYear": 1027,
+    "time": 1028,
+    "timeDay": 1291,
+    "timeWeek": 935,
+    "timeMonth": 982,
+    "timeYear": 1028,
     "dailyMinutesDown": {
-      "2025-12-19": 1
+      "2025-12-19": 10
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://mein.freitag.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mein.freitag.de.ico",
     "slug": "mein-freitag",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 1169,
-    "timeWeek": 894,
-    "timeMonth": 936,
-    "timeYear": 933,
+    "time": 934,
+    "timeDay": 1144,
+    "timeWeek": 922,
+    "timeMonth": 942,
+    "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-12-19": 0
+      "2025-12-19": 10
     }
   },
   {
