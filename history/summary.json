@@ -102,9 +102,9 @@
     "url": "https://sentry.dfstats.fcio.net/",
     "icon": "https://icons.duckduckgo.com/ip3/sentry.dfstats.fcio.net.ico",
     "slug": "sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -114,6 +114,7 @@
     "timeMonth": 840,
     "timeYear": 896,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2025-11-11": 18,
       "2025-10-08": 33
     }
@@ -152,7 +153,7 @@
     "uptimeYear": "99.67%",
     "time": 529,
     "timeDay": 625,
-    "timeWeek": 559,
+    "timeWeek": 505,
     "timeMonth": 505,
     "timeYear": 529,
     "dailyMinutesDown": {
