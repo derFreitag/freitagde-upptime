@@ -9,6 +9,8 @@ sites:
     url: https://abo.freitag.de/
   - name: Verlag Freitag
     url: https://verlag.freitag.de/
+  - name: digital.freitag.de
+    url: https://digital.freitag.de/admin/
   - name: Storybook Freitag
     url: https://storybook.freitag-verlag.de/
   - name: Mein Freitag
