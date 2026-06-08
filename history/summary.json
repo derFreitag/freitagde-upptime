@@ -4,11 +4,11 @@
     "url": "https://www.freitag.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.freitag.de.ico",
     "slug": "freitag-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 1419,
     "timeDay": 899,
@@ -23,7 +23,8 @@
       "2026-01-01": 55,
       "2026-02-08": 35,
       "2026-06-04": 24,
-      "2026-06-03": 70
+      "2026-06-03": 70,
+      "2026-06-08": 11
     }
   },
   {
@@ -31,12 +32,12 @@
     "url": "https://www.freitag.de/@@herald-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/www.freitag.de.ico",
     "slug": "herald",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.85%",
     "time": 261,
     "timeDay": 306,
     "timeWeek": 441,
@@ -46,7 +47,8 @@
       "2026-04-16": 27,
       "2026-06-04": 24,
       "2026-06-03": 70,
-      "2026-06-05": 92
+      "2026-06-05": 92,
+      "2026-06-08": 7
     }
   },
   {
@@ -171,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.dfstats.fcio.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "84.04%",
+    "uptime": "83.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.04%",
+    "uptimeYear": "83.95%",
     "time": 927,
     "timeDay": 0,
     "timeWeek": 0,
@@ -184,7 +186,7 @@
     "dailyMinutesDown": {
       "2025-08-05": 46,
       "2025-12-16": 17,
-      "2026-06-08": 215,
+      "2026-06-08": 731,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
