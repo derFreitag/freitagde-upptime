@@ -1,7 +1,7 @@
 url: https://verlag.freitag.de/
-status: up
-code: 200
-responseTime: 1101
-lastUpdated: 2026-08-24T23:17:51.317Z
+status: down
+code: 503
+responseTime: 455
+lastUpdated: 2026-08-25T20:03:08.379Z
 startTime: 2025-07-05T13:40:53.811Z
 generator: Upptime <https://github.com/upptime/upptime>
